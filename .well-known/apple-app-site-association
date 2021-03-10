@@ -1,0 +1,16 @@
+{
+  "webcredentials": {
+    "apps": ["XQ4TR67S4J.co.squarelab.WebFormApp"]
+  },
+  "applinks": {
+    "apps": [],
+    "details": [{
+      "appID": "XQ4TR67S4J.co.squarelab.WebFormApp",
+      "paths": ["*"],
+      "appIDs": ["XQ4TR67S4J.co.squarelab.WebFormApp"],
+      "components": [{
+        "/": "*"
+      }]
+    }]
+  }
+}
